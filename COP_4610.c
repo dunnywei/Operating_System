@@ -2,9 +2,9 @@
 https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh
 ->Module_1_Video2
   -Symmetric and Asymettric->Assymetric:One is in control (main) and others are slave. Symmetric->All processors are treated as peers. OS do the management(2:16)
-  -Multiprocessing vs clustering system->culster system has its own clock ((2:16)
+  -Multiprocessing vs clustering system->culster system has its own clock (2:16)
   -Multiprogramming->System allows multi programming to be on at the same time (2:31).
-      -Scheduler will let each process to be on on at time by switching between process
+      -Scheduler will let each process to be on on at time by switching between process in a single processor system (2:41)
         -          
         -
   -
