@@ -113,4 +113,23 @@ Module 14 - video 1 - overview of mass storage
 
  
 Module 14 - video 2 - disk scheduling algorithms
+------------------------------Tami Sorgente scheduler assignment-------------------------------------------
 
+VIDEO 1 processes and scheduling
+https://www.youtube.com/watch?v=IpYpX6n0Ncg
+
+->https://www.youtube.com/watch?v=IpYpX6n0Ncg
+->Video 3: Non preemptive FCFS, SJF, priority algorithm practice
+https://www.youtube.com/watch?v=NBaB98yEW3s
+->VIDEO 4 Preemptive CPU scheduling
+https://www.youtube.com/watch?v=n7VwMMEZvP4
+->VIDEO 5 round robin and SRT
+https://www.youtube.com/watch?v=3PRFTRJL6D8
+->VIDEO 6 MLQ and MLFQ CPU scheduling
+https://www.youtube.com/watch?v=n7VwMMEZvP4
+->Video 8: RR, SRT, preepmtive algorithm priority practice
+https://www.youtube.com/watch?v=YlyV4jBhzkw
+
+
+->For Tami Sorgente other C
+check->https://www.youtube.com/channel/UCYcWeJYBBWyArRTAbCC0l8A
