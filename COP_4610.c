@@ -8,6 +8,11 @@ http://www.cse.fau.edu/~tami/COP4610M4Slides.pdf
 ->search term->
 VIDEO 4 preemptive CPU scheduling
 https://www.youtube.com/watch?v=n7VwMMEZvP4
+->Search term 2->
+Tami Sorgente scheduler assignment
+https://www.youtube.com/watch?v=SaG4O_X2HGc
+->search term 3->
+  
 ->Module_1_Video2
   -Symmetric and Asymettric->Assymetric:One is in control (main) and others are slave. Symmetric->All processors are treated as peers. OS do the management(2:16)
   -Multiprocessing vs clustering system->culster system has its own clock (2:16)
