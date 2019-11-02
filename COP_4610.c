@@ -1,6 +1,9 @@
 ->Link
 https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh
 
+->COMP 4601 list
+https://cursa.app/en/course/computer-operating-systems-with-tami-sorgente/nupZRaaWohU
+
 ->search term->
 VIDEO 4 preemptive CPU scheduling
 https://www.youtube.com/watch?v=n7VwMMEZvP4
