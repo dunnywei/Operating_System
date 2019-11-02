@@ -3,7 +3,8 @@ https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh
 
 ->COMP 4601 list
 https://cursa.app/en/course/computer-operating-systems-with-tami-sorgente/nupZRaaWohU
-
+->course material
+http://www.cse.fau.edu/~tami/COP4610M4Slides.pdf
 ->search term->
 VIDEO 4 preemptive CPU scheduling
 https://www.youtube.com/watch?v=n7VwMMEZvP4
