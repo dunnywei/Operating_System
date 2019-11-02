@@ -1,5 +1,9 @@
 ->Link
 https://www.youtube.com/playlist?list=PLgre7dUq8DGKbtnlMuJPvPYlvLdXOC9uh
+
+->search term->
+VIDEO 4 preemptive CPU scheduling
+https://www.youtube.com/watch?v=n7VwMMEZvP4
 ->Module_1_Video2
   -Symmetric and Asymettric->Assymetric:One is in control (main) and others are slave. Symmetric->All processors are treated as peers. OS do the management(2:16)
   -Multiprocessing vs clustering system->culster system has its own clock (2:16)
