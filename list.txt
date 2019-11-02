@@ -1,0 +1,116 @@
+Introduction to OS
+
+ 
+Module 1 - video 1 - introduction to operating systems concept08m
+ 
+ 
+Module 1 - video 2 - operating system components09m
+ 
+ 
+Module 2 - video 1 - operating system design07m
+ 
+ 
+Module 2 - video 2 - operating system structure08m
+ 
+ 
+Module 3 - video 1 - process concept08m
+ 
+ 
+Module 3 - video 2 - operations on processes09m
+ 
+ 
+Module 4 - video 1 - processes and scheduling08m
+ 
+ 
+Module 4 - video 2 - cpu scheduling fcfs and sjf09m
+ 
+ 
+9. module 4 - non preemptive fcfs, sjf, priority algorithm practice13m
+ 
+ 
+Module 4 - video 3 - preemptive cpu scheduling09m
+ 
+ 
+Module 4 - rr, srt, preepmtive algorithm priority practice18m
+ 
+ 
+Module 5 - video 1- round robin and srt08m
+ 
+ 
+Module 5 - video 2 - mlq and mlfq cpu scheduling08m
+MLQ solution is located here:
+http://www.cse.fau.edu/~tami/MLQ.PNG
+ 
+ 
+Module 5 - mlq cpu scheduling practice14m
+ 
+ 
+Cpu scheduling practice - fcfs, sjf, mlfq23m
+ 
+ 
+Module 5 - cpu scheduling practice, preemptive priority23m
+ 
+ 
+Module 7 - video 1 - interprocess communication (ipc)09m
+ 
+ 
+Module 7 - video 2 - thread concept08m
+ 
+ 
+Module 8 video - introduction to process synchronization08m
+ 
+ 
+Module 9 video 1 - synchronization with semaphores08m
+ 
+ 
+Module 9 video 2 - counting semaphore example
+
+ 
+Module 9 - video 3 - monitors and classic problems of synchronization
+
+ 
+Module 9 - more about the critical section problem
+
+ 
+Module 10 - semaphore exercise
+
+ 
+Module 10 - video 1 - deadlock introduction
+
+ 
+Module 10 - video 2 - deadlock avoidance
+Deadlock avoidance and the Banker's Algorithm
+
+ 
+Module 11 - video 1 - main memory introduction
+
+ 
+Module 11 - video 2 - memory placement exercise
+
+ 
+Module 12 - video 1 - main memory - paging
+
+ 
+Module 12 - video 2 - paging address translation
+
+ 
+Module 12 - video 3 - more paging and addressing
+
+ 
+Module 12 - video 4 - page faults and page replacement
+
+ 
+Module 13 - video 1 - frame allocation and thrashing
+
+ 
+Module 13 - video 2 - page replacement algorithms (fifo and opt)
+
+ 
+Module 13 - video 3 - page replacement algorithms (lru and second chance)
+
+ 
+Module 14 - video 1 - overview of mass storage
+
+ 
+Module 14 - video 2 - disk scheduling algorithms
+
